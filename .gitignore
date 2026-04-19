@@ -1,0 +1,16 @@
+# Build artifacts
+node_modules/
+dist/
+out/
+.vscode-test/
+*.vsix
+coverage/
+.DS_Store
+
+# Claude workflow files (not relevant to the extension itself)
+CLAUDE.md
+IDEA.md
+PRD.md
+TEMPLATE_GUIDE.md
+context/
+docs/
