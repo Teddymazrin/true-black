@@ -2,7 +2,7 @@
 
 Pure black (`#000000`) backgrounds on top of Dark+. Built for OLED displays and eye-strain reduction.
 
-![True Black theme screenshot](https://raw.githubusercontent.com/Teddymazrin/true-black/main/media/screenshot.png)
+![True Black theme screenshot](https://raw.githubusercontent.com/Teddymazrin/true-black/main/media/trueblack.png)
 
 ## What it does
 

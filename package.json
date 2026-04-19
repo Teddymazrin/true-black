@@ -2,7 +2,7 @@
   "name": "true-black",
   "displayName": "True Black",
   "description": "Pure black (#000000) backgrounds on top of Dark+. Built for OLED displays and eye-strain reduction.",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publisher": "TeddyMazrin",
   "license": "MIT",
   "engines": {
